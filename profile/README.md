@@ -1,4 +1,4 @@
-# LAMUN — Laboratoro of microbiology, University de Neuchâtel
+# LAMUN — Laboratory of microbiology, University of Neuchâtel
 
 Shared code and tools of the lab.
 

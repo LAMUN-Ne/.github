@@ -15,8 +15,8 @@ Shared code and tools of the lab.
 ## How to contribute
 
 1. Ask for an invite to the organization.
-2. Each tool gets its own repo; start from the README template.
-3. Questions → open an Issue in the relevant repo.
+2. Each tool gets its own repo. Copy the [README template](https://github.com/LAMUN-Ne/.github/blob/main/README_TEMPLATE.md) into it as `README.md` and fill it in.
+3. Found a bug or have a question? Open the tool's repo, go to the **Issues** tab, click **New issue**, describe the problem (what you did, what happened, any error message) and click **Create**. The maintainer gets notified.
 
 ## Links
 

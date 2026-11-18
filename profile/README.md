@@ -11,6 +11,7 @@ Shared code and tools of the lab.
 | Repo | What it does | Maintainer |
 |---|---|---|
 | [blast-batch](https://github.com/LAMUN-Ne/blast-batch) | Batch-BLAST FASTA/AB1 files on NCBI, results in one Excel table | Bruno |
+| [gel-labeling](https://github.com/LAMUN-Ne/gel-labeling) | Label PCR gel lanes with sample names and primer/gene groups (opens in the browser) | Bruno |
 
 ## How to contribute
 

@@ -6,11 +6,11 @@ Shared code and tools of the lab.
 
 ## Tools
 
-*Coming soon.* Tools will be listed here as they are added.
+
 
 | Repo | What it does | Maintainer |
 |---|---|---|
-| | | |
+| [blast-batch](https://github.com/LAMUN-Ne/blast-batch) | Batch-BLAST FASTA/AB1 files on NCBI, results in one Excel table | Bruno |
 
 ## How to contribute
 
